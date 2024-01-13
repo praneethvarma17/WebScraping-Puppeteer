@@ -1,0 +1,16 @@
+{
+  "name": "premanna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node entry.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.7.0",
+    "xlsx": "^0.18.5"
+  }
+}
